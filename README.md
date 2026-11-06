@@ -5,7 +5,7 @@ Programlamaya Giriş dersi vize ödevi olarak HTML, CSS ve JavaScript ile hazır
 
 ## Sunum videosu
 
-YouTube: https://youtu.be/os0w2UIOqrg
+YouTube: https://youtu.be/qUF4vXLUvaw
 
 ## Sayfa ne yapıyor?
 
